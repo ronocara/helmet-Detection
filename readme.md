@@ -2,7 +2,7 @@
 This project uses object detection models: Yolov5, Yolov7, and DeepSORT. 
 It classifies motorcycle riders and helmet types from video input.
 
-In the first .ipynb file [(HelmetDetection_YOLOv5.ipynb)](https://github.com/ronocara/helmet-Detection/blob/main/HelmetDetection_YOLOv5.ipynb) It used YOLOv5 and the model performance analysis can be seen in here(https://github.com/ronocara/helmet-Detection/blob/main/yolov5Analysis.pdf)
+In the first .ipynb file [(HelmetDetection_YOLOv5.ipynb)](https://github.com/ronocara/helmet-Detection/blob/main/HelmetDetection_YOLOv5.ipynb) It used YOLOv5 and the model performance analysis can be seen in [here](https://github.com/ronocara/helmet-Detection/blob/main/yolov5Analysis.pdf)
 
 <br> Image from the video output
  <br> <br>[(Video Link Here)](https://www.youtube.com/watch?v=rgCLCQqAfls&ab_channel=C.Ro%C3%B1o)
